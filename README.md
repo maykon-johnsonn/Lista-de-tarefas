@@ -1,6 +1,6 @@
 # Projeto lista de tarefas
 ## App básico de lista de tarefas, para adicionar os à fazeres e marca-los quando concluídos. 
-## Ferramentas utilizadas:
+## Ferramentas utilizadas: 
 * React 
 * Typescript
 <div align="center">
